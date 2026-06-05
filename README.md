@@ -21,14 +21,14 @@ Contains modified Copernicus Climate Change Service information (2026) – with 
 Data Used:  
 - Country-level annual temperature anomalies
 
-## Technology Stack
+## Tech Stack
 - Python
 - Panda
 - Tableau Public
 - Git/GitHub
 - MS Excel
 
-## Data Pipline  
+## Data Pipeline  
 Extract  
 - Downloaded disaster records from EM-DAT
 - Downloaded country-level temperature anomaly records from Our World in Data
