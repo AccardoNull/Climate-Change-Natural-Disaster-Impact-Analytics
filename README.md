@@ -23,7 +23,7 @@ Data Used:
 
 ## Tech Stack
 - Python
-- Panda
+- Pandas
 - Tableau Public
 - Git/GitHub
 - MS Excel
