@@ -53,7 +53,7 @@ Load
 ![screenshot3](tableau/Correlation_Plot.png)
 
 ## Current Findings
-Preliminary analysis found very weak linear correlations between annual temperature anomalies and climate disaster frequency at the country-year level. This suggests that climate disaster occurrence may be influenced by additional geographic, environmental, and socioeconomic factors beyond temperature anomalies alone.Further investigation is ongoing.
+Preliminary analysis found very weak linear correlations between annual temperature anomalies and climate disaster frequency at the country-year level. This suggests that climate disaster occurrence may be influenced by additional geographic, environmental, and socioeconomic factors beyond temperature anomalies alone. Further investigation is ongoing.
 
 ## In progress
 - Disaster impact aggregation by disaster type
