@@ -47,6 +47,7 @@ Load
 - Exploratory Data Analysis
 - Tableau Worksheets
 - Tableau Dashboard
+
 ![screenshot1](tableau/Climate Disaster Trend.png)
 ![screenshot2](tableau/Temperature Trend.png)
 ![screenshot3](tableau/Correlation Plot.png)
