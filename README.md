@@ -31,14 +31,14 @@ Data Used:
 ## Data Pipline  
 Extract  
 - Downloaded disaster records from EM-DAT
-- Downloaded country-level temperature anomaly records from Our World in Data  
+- Downloaded country-level temperature anomaly records from Our World in Data
 Transform
 - Removed regional aggregate observations (e.g., NIAID regional entries)
 - Filtered climate records to the 2000–2026 study period
 - Standardized dataset structure
 - Aggregated disaster records by country and year
 - Filtered climate-related disaster categories
-- Merged climate and disaster datasets using Country and Year keys  
+- Merged climate and disaster datasets using Country and Year keys
 Load
 - Generated Tableau-ready analytical datasets for visualization and further analysis  
 
